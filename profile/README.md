@@ -1,3 +1,4 @@
+![This is an image](https://github.com/StudentProgrammingProjects/.github/blob/main/Logo.png)
 # StudentProgrammingProgects
 
 ## Для кого?
