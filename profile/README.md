@@ -10,17 +10,17 @@
 ## :heavy_check_mark: Как пользоваться?
 
 - **Присоединиться к команде**
-     -   Выбираете проект из [списка](Projects.md)
+     -   Выбираете проект из [списка](https://github.com/StudentProgrammingProjects/.github/blob/main/Projects.md)
      -   Переходите в карточку проекта
      -   Связываетесь с автором проекта
 - **Самостоятельно работать**
-     -   Выбираете проект из [списка](Projects.md)
+     -   Выбираете проект из [списка](https://github.com/StudentProgrammingProjects/.github/blob/main/Projects.md)
      -   Переходите в карточку проекта
      -   Переходите в репозиторий проекта
      -   Делаете форк с вой аккаунт
 - **Предложить свой проект**
-     -   Делаете форк [списка проектов](Projects.md)
-     -   Добавляете карточку проекта, согласно [шаблону](Template.md)
+     -   Делаете форк [списка проектов](https://github.com/StudentProgrammingProjects/.github/blob/main/Projects.md)
+     -   Добавляете карточку проекта, согласно [шаблону](https://github.com/StudentProgrammingProjects/.github/blob/main/Template.md)
      -   Добавляете свой проект в общий список
      -   Создаёте pull request
 
