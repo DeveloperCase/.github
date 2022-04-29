@@ -1,4 +1,4 @@
-![This is an image](https://github.com/StudentProgrammingProjects/.github/blob/main/Logo.png)
+![LOGO]()
 # StudentProgrammingProgects
 
 ## Для кого?
