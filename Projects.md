@@ -1,3 +1,4 @@
+TEST
 # Проекты
 
 - [Сlass diagram generator](./Projects/Class_diagram_generator.md) - Приложение для генерации диаграммы классов из проекта на C#
