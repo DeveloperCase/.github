@@ -26,7 +26,6 @@
 
 
 ### :copyright: Автор проекта
-
 Старинин Андрей
 - [Telegram](https://t.me/anst_foto)
 - [GitHub](https://github.com/anst-foto)
