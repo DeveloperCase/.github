@@ -1,5 +1,6 @@
 # Developer case. Чемоданчик разработчика.
 
-- [Проекты для студенческих работ](https://github.com/DeveloperCase/SPP)
+- [Инструменты для разработки](https://github.com/DeveloperCase/tools_for_programming)
 - [Рекомендуемая литература](https://github.com/DeveloperCase/recommended_literature)
-- [Задачи по программированию](https://github.com/practical-programming-tasks/tasks)
+- [Задачи по программированию](https://github.com/DeveloperCase/tasks)
+- [Проекты для студенческих работ](https://github.com/DeveloperCase/SPP)
