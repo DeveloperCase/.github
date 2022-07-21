@@ -16,3 +16,5 @@
 - [Teamlead Roadmap](https://github.com/tlbootcamp/tlroadmap)
 - [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap)
 - [JuniorITRoadMap](https://github.com/IT-za-Edu/JuniorITRoadMap)
+- [Обучающие проекты на разных языках](https://github.com/practical-tutorials/project-based-learning)
+- [Пошаговый гайд по написанию первого приложения .NET MAUI](https://github.com/dotnet-presentations/dotnet-maui-workshop?WT.mc_id=dotnet-29192-cxa)
